@@ -1,7 +1,5 @@
 ### Olá! Meu nome é Lucas Pacheco 👋
 
-- 🔭 Atualmente estou cursando 4º período em ciência da computação
-- 🌱 Estou aprendendo java e javascript
 <!-- <div align=center>
   <a href="https://github.com/CordeiroLucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cordeirolucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
