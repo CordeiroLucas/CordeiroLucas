@@ -1,4 +1,4 @@
-### Olá! Meu nome é Lucas Pacheco 👋
+### Olá!👋
 
 <!-- <div align=center>
   <a href="https://github.com/CordeiroLucas">
