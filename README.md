@@ -1,8 +1,8 @@
 
 <h3>Olá!👋</h3>
 <div align=left>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cordeirolucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&layout=normal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordeirolucas&layout=compact&theme=dark&langs_count=6&locale=pt-br&count_private=true"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cordeirolucas&show_icons=true&theme=dark&include_all_commits=true&count_private=false&locale=pt-br&layout=normal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordeirolucas&layout=compact&theme=dark&langs_count=6&locale=pt-br&count_private=false"> 
 </div>
   
 <div style="display: inline_block" align=left>
