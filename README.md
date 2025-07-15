@@ -2,8 +2,8 @@
 
 <div align="center">
   <!-- <a href="https://github.com/cordeirolucas"> -->
-  <img height="280rem" src="https://github-readme-stats.vercel.app/api?username=cordeirolucas&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF"/>
-  <img height="280rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordeirolucas&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF"/>
+  <img height="260rem" src="https://github-readme-stats.vercel.app/api?username=cordeirolucas&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF"/>
+  <img height="260rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordeirolucas&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF"/>
 </div>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cordeirolucas&repo=portfolio&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF)](https://cordeirolucas.github.io/portfolio/)
