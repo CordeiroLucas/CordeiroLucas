@@ -33,6 +33,8 @@
 ![Excalidraw](https://img.shields.io/badge/escalidraw-000?style=for-the-badge&logo=excalidraw&logoColor=#6965DB)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
+![Latex](https://img.shields.io/badge/Latex-000?style=for-the-badge&logo=latex&logoColor=008080)
+
 
 ***
 ## Contatos / Contacts
