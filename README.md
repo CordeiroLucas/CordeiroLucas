@@ -21,13 +21,16 @@
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=#092E20)
 ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=#150458)
+![Selenium](https://img.shields.io/badge/seleium-000?style=for-the-badge&logo=selenium&logoColor=#43B02A)
 ![Plotly](https://img.shields.io/badge/ploty-000?style=for-the-badge&logo=plotly&logoColor=##7A76FF)
 
 ![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=mysql&logoColor=#4479A1)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=30A3DC)
 ![C Sharp](https://img.shields.io/badge/cs-000?style=for-the-badge&logo=sharp&logoColor=#99CC00)
 
+
 ![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=#F24E1E)
+![Excalidraw](https://img.shields.io/badge/escalidraw-000?style=for-the-badge&logo=excalidraw&logoColor=#6965DB)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
 
