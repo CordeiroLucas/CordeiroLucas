@@ -8,7 +8,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cordeirolucas&repo=portfolio&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF)](https://cordeirolucas.github.io/portfolio/)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cordeirolucas&repo=albion_market_tracker&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF)](https://cordeirolucas.github.io/albion_market_tracker/)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cordeirolucas&repo=projeto-spiderman&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF)](https://cordeirolucas.github.io/projeto-spiderman/)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cordeirolucas&repo=projeto-spiderman&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF)](https://cordeirolucas.github.io/infinityzap-monitor/)
 
 ***
 ##  Habilidades / Hard Skills
