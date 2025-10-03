@@ -1,17 +1,15 @@
 # CordeiroLucas
-
+<!--
 <div align="center">
-  <!-- <a href="https://github.com/cordeirolucas"> -->
+  <a href="https://github.com/cordeirolucas">
+  
   <img height="230rem" src="https://github-readme-stats.vercel.app/api?username=cordeirolucas&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF"/>
   <img height="230rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordeirolucas&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF"/>
 </div>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cordeirolucas&repo=portfolio&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF)](https://cordeirolucas.github.io/portfolio/)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cordeirolucas&repo=albion_market_tracker&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF)](https://cordeirolucas.github.io/albion_market_tracker/)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cordeirolucas&repo=projeto-spiderman&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF)](https://cordeirolucas.github.io/infinityzap-monitor/)
-
-***
-##  Habilidades / Hard Skills
+#[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cordeirolucas&repo=albion_market_tracker&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF)](https://cordeirolucas.github.io/albion_market_tracker/)
+#[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cordeirolucas&repo=projeto-spiderman&bg_color=000&border_color=FFF&show_icons=true&icon_color=2dba4e&title_color=FFF&text_color=FFF)](https://cordeirolucas.github.io/infinityzap-monitor/)-->
 
 ![Javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=#7952B3)
