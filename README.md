@@ -23,6 +23,8 @@
 ![Plotly](https://img.shields.io/badge/ploty-000?style=for-the-badge&logo=plotly&logoColor=##7A76FF)
 
 ![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=mysql&logoColor=#4479A1)
+![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
+
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=30A3DC)
 ![C Sharp](https://img.shields.io/badge/cs-000?style=for-the-badge&logo=sharp&logoColor=#99CC00)
 
