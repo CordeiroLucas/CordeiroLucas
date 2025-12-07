@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=#092E20)
 ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=#150458)
-![Selenium](https://img.shields.io/badge/seleium-000?style=for-the-badge&logo=selenium&logoColor=#43B02A)
+![Selenium](https://img.shields.io/badge/selenium-000?style=for-the-badge&logo=selenium&logoColor=#43B02A)
 ![Plotly](https://img.shields.io/badge/ploty-000?style=for-the-badge&logo=plotly&logoColor=##7A76FF)
 
 ![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=mysql&logoColor=#4479A1)
