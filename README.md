@@ -1,4 +1,4 @@
-# CordeiroLucas
+# Lucas Cordeiro
 <!--
 <div align="center">
   <a href="https://github.com/cordeirolucas">
